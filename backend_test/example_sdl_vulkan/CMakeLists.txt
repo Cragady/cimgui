@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8)
-Project(cimgui_sdl_vk)
+Project(cimgui_sdl3_vk)
 if(WIN32) # to make mingw work as all the others
 set(CMAKE_SHARED_LIBRARY_PREFIX "")
 endif(WIN32)
